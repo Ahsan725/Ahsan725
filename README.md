@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQEN4WyWR6d5Nw/profile-displaybackgroundimage-shrink_350_1400/0/1700756309745?e=1707350400&v=beta&t=t4uxFT0eaxOz9Th2oLO2uiR_FBg14BF-RxcqlSFP4n0)
 <h1 align="center">Hi 👋, I'm Ahsan Baseer</h1>
 <h3 align="center">Results-Driven Computer Science Student | Full Stack Developer Intern | Aspiring Software Engineer | Diverse Skill Set & Leadership Experience</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan725&label=Profile%20visits%20today:&color=0e75b6&style=plastic" alt="ahsan725" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan725&label=Profile%20visits%20:&color=0e75b6&style=plastic" alt="ahsan725" /> </p>
 
 - 🔭 I’m currently working on **AlumLink**
 
