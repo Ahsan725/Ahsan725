@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan725&label=Profile%20visits%20:&color=0e75b6&style=plastic" alt="ahsan725" /> </p>
 
-- 🔭 I’m currently working on **AlumLink**
+- 🔭 I’m currently working on **IOS Development**
 
-- 🌱 I’m currently learning **AI Machine Learning**
+- 🌱 I’m currently learning **AI / Machine Learning**
 
 - 📫 How to reach me **sbaseer25@gmail.com**
 
