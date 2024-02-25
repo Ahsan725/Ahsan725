@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1r8nqgOUdFxZ7R1wkMCmw0g59UpLnFXBV/view?usp=sharing)
+![Header](./Yellow Corporate LinkedIn Banner (5).png)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Ahsan Baseer </h1>
 <h3 align="center">Results-Driven Computer Science Student | Full Stack Developer Intern | Aspiring Software Engineer | Diverse Skill Set & Leadership Experience</h3>
