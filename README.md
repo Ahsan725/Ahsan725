@@ -153,7 +153,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahsan725/Ahsan725/output/snake.svg" alt="Snake animation" />
 
 ###
 
