@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan725&label=Profile%20visits%20:&color=0e75b6&style=plastic" alt="ahsan725" /> </p>
 
-- 🔭 I’m currently working on **IOS Development**
+- 🔭 I’m currently working on **IOS Development and Java Spring Boot FullStack Application**
 
 - 🌱 I’m currently learning **AI / Machine Learning**
 
